@@ -18,6 +18,6 @@ Gitbub is a code hosting platform that can enables version control collaboration
   
 #### to add all files in given repository
 > `git add .`    
-> `git commit -m "(committed message)"`    \n
-> `git push -u origin master`  \n
-> `git remote add origin master (url)`  \n
+> `git commit -m "(committed message)"`   
+> `git push -u origin master`  
+> `git remote add origin master (url)`  
