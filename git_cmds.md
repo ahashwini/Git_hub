@@ -2,7 +2,7 @@
 > sudo apt-get install git -y
 
 #### Set Up Git:
-> git config --global user.name "Vamshi-dhar"
+> git config --global user.name "Vamshi-dhar"                                                     
 > git config --global user.email "vamshi.analyst2013@gmail.com"
 
 ### other commands
@@ -10,10 +10,11 @@
 > git status  #Current state of repository.
 > git clone (url) # to clone repository from any public account.
 
-> git add (file names) # to add the file to staging area for git.only files in staging area are considered for commit.
+#### to add the file to staging area for git.only files in staging area are considered for commit.
+> git add <file names> 
 
-> git add . #to add all files in given repository
-
+#### to add all files in given repository
+> git add . 
 
 > git commit -m "(committed message)"
 > git push -u origin master
