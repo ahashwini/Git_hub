@@ -1,6 +1,6 @@
 Gitbub is a code hosting platform that can enables version control collaboration.
 ### Installing git in your local machine [Ubuntu]
-`sudo apt-get install git -y`
+> `sudo apt-get install git -y`
 
 ### Set Up Git:
 > git config --global user.name "Vamshi-dhar"                                                     
