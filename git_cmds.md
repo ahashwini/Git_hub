@@ -1,11 +1,11 @@
-###install git
+### install git
 > sudo apt-get install git -y
 
-####Set Up Git:
+#### Set Up Git:
 > git config --global user.name "Vamshi-dhar"
 > git config --global user.email "vamshi.analyst2013@gmail.com"
 
-###other commands
+### other commands
 > git init #turns directory to gt repository.
 > git status  #Current state of repository.
 > git clone (url) # to clone repository from any public account.
