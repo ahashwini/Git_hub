@@ -1,16 +1,16 @@
 Gitbub is a code hosting platform that can enables version control collaboration.
-### installing git in your local machine [Ubuntu]
+### Installing git in your local machine [Ubuntu]
 > sudo apt-get install git -y
 
 ### Set Up Git:
 > git config --global user.name "Vamshi-dhar"                                                     
 > git config --global user.email "vamshi.analyst2013@gmail.com"
 
-### turns directory to git repository.
+### Turns local directory to git repository i.e. working copy in local machine.
 > git init 
-#### Current state of repository.
+### Current state of repository.
 > git status 
-#### to clone repository from any public account.
+#### To clone repository from any public account.
 > git clone <url>
   
 #### to add the file to staging area for git.only files in staging area are considered for commit.
