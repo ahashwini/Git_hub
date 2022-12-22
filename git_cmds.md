@@ -118,4 +118,12 @@ this will mix 2 and 3 into 1, as a result only commits 1 and 4 are visible.
 
 ##################################
 > `git push -u origin master`  
-> `git remote add origin master (url)`  
+> `git remote add origin master (url)`
+
+
+
+
+
+*****************************
+-Ashwini says it is test pull request.
+  
